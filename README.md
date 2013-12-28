@@ -1,7 +1,7 @@
 Earthcoin ( EAC )
 =========
 
-What is Earthcoin?
+\\What is Earthcoin?
 
 Earthcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
@@ -11,12 +11,12 @@ Earthcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
     -55 coins per block
     2016 blocks to retarget difficulty
     
-License
+\\License
 
     Earthcoin is under Copyright by Bitcoin,Litecoin and me 
     
     
-Development process
+\\Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
@@ -28,11 +28,11 @@ The patch will be accepted if there is broad consensus that it is a good thing. 
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of Earthcoin.
 
-Testing
+\\Testing
 
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test. Please be patient and help out, and remember this is a security-critical project where any mistake might cost people lots of money.
 
-Automated Testing
+\\Automated Testing
 
 Developers are strongly encouraged to write unit tests for new code, and to submit new unit tests for old code.
 
